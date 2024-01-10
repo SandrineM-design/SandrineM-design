@@ -15,14 +15,16 @@ Languages :
 
 Frameworks & libraries :
 ✅React JS
-✅ Express JS
+✅Express JS
 ✅Node JS
 ✅Vite
 ✅VueJS
 ✅Sass
+✅Tailwind CSS
 ✅NPM
 ✅JEST
 ✅Postman
+
         
 Databases :
 ✅MySQL
