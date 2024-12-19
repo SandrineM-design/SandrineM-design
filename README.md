@@ -52,7 +52,7 @@ LinkedIn :
 www.linkedin.com/in/sandrine-manson
 
 mail : 
-mansonsandrine@gmail.com
+ms.ateliercreationnumerique@gmail.com
 
 portfolio : 
 in development
