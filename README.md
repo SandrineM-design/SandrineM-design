@@ -49,7 +49,7 @@ Tools :
 📬 Contact 
 
 LinkedIn : 
-www.linkedin.com/in/sandrine-manson
+https://www.linkedin.com/in/sandrine-manson-75b498329/
 
 mail : 
 ms.ateliercreationnumerique@gmail.com
